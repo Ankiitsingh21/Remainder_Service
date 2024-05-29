@@ -14,7 +14,7 @@ const setupAndServer = ()=>{
 
                 //sendBasicEmail(
                 //        'mohitankit710@gmail.com',
-                //        'ankiitsingh21@gmail.com',
+                //        'savitasingh6259@gmail.com',
                 //        'This is a testing email',
                 //        'Hey , how are you ,I hope you like the support'
                 //);
